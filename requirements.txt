@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision
+facenet-pytorch
+pillow
+pandas
+numpy
+tqdm
+click
+opencv-python
